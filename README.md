@@ -1,4 +1,5 @@
 ![MAS: Extra Games Submod](https://github.com/Dsfan2/ExtraGamesSubmod/blob/main/img/Extra%20Games%20Submod%20Logo%20Text%20Only.png)
+
 A Submod for Monika After Story that adds new games!
 Have you gotten bored of the same old Chess, Pong, Hangman, & NOU? Well look no further because this submod adds new games for you and Monika to play!
 Currently 1 game has been finished, but there will be more to come in the future!
