@@ -8,12 +8,9 @@ Currently 1 game has been finished, but there will be more to come in the future
 * The Millionaire Game (Who Wants To Be A Millionaire)
 
 ### Upcoming Games:
-* Monika's Puzzle Party
-* ???
-* ???
-* ???
-* ???
-* ???
+* Mario's Puzzle Party (Mario Party 3 Minigame)
+* Chutes & Ladders (Or Snakes & Ladders if you live in Europe)
+* Jeopardy (The trivia show that I probably suck at)
 * And more to come!
 
 ### Installation:
