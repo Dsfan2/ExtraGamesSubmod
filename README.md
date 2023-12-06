@@ -14,6 +14,7 @@ Currently 1 game has been finished, but there will be more to come in the future
 * ???
 * ???
 * ???
+* And more to come!
 
 ### Installation:
 * Go to the 'Releases' page
