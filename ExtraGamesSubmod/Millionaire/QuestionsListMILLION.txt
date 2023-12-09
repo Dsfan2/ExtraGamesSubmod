@@ -1,0 +1,30 @@
+# A seperate file for all the questions that can appear as the last one.
+# The question "Is anything truly free" gets a little special treatment...
+
+# DDLC Questions
+Be honest, who is best girl?|Monika|Sayori|Yuri|Natsuki
+What is the name of the DDLC Mod where you can talk to Sayori forever?|Forever and Ever|Sayori After Story|Just Sayori|You and Me
+Is anything truly free?|No|Yes|Maybe|Maybe Not
+In the official DDLC "Picnic" artwork, how many four-leaf clovers are on Sayori's clover crown?|8|3|10|None, they're all three-leaf clovers
+After Yuri "gets to the point" how many lines of glitched text does the game generate?|1440|999|1080|922
+
+# Mario Questions
+How many official PC/DOS Mario games got turned into Nintendo console games?|2|3|1|None
+
+# Misc Games Questions
+Which badge in A Hat In Time makes Hat Kid shoot a lazer out of her umbrella?|Projectile Badge|Fast Hatter Badge|Scooter Badge|One-Hit Wonder Badge
+
+# YouTube & Media Questions
+What is used as the framework for designing a website?|HTML5|CSS3|JavaScript|Python
+What was Nintendo's first attempt at video games?|EVRRACE|Block Fever|Computer Athela|Radar Scope
+
+# General Trivia Questions
+A number one followed by a hundered zeros is known by what name?|Googol|Megaton|Gigabyte|Nanomole
+Oberon is a satellite of which planet?|Uranus|Venus|Jupiter|Neptune
+Tomas Masaryk was the first President of which country?|Czechozlovakia|Poland|Finland|Romania
+Which scientific unit is named after an Italian nobleman?|Volt|Pascal|Joule|Hertz
+Which of these is a butterfly, not a moth?|Speckled Wood|Red Underwing|Mother Shipton|Burnished Brass
+Which element of the periodic table is labled as DS?|Darmstadtium|Dysprosium|Dubnium|Yttrium
+What's at the top of Disneyland's Matterhorn that's exclusive to employees?|A basketball court|A matinence room|A bar|A storage room for costumes
+Dextrin was an ingredient in the Japan-exclusive "Pepsi Special." What was this claimed to do?|Lose weight|Stay hydrated|Lower A1C|Reduce depression symptoms
+What was the license plate of the car on the famous Abbey Road album cover?|LMW 28IF|LBV 16AS|LAD 42OI|LAF 69LG
