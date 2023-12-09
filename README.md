@@ -1,3 +1,4 @@
+### THIS SUBMOD IS CURRENTLY IN BETA. CONTENT MAY BE CHANGED IN FUTURE UPDATES
 ![MAS: Extra Games Submod](https://github.com/Dsfan2/ExtraGamesSubmod/blob/main/pics/Extra%20Games%20Submod%20Logo%20Text%20Only.png)
 
 A Submod for Monika After Story that adds new games!
