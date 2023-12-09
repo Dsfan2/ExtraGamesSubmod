@@ -1,0 +1,58 @@
+# A seperate file for the much harder questions that appear later.
+
+# DDLC Questions
+What is the favor of tea Yuri makes?|Oolong|Fermented|Peppermint|Black
+What is the font of Yuri's first creepy poem?|as i lay dying|Damagrafik Script|JP Hand|Chalkduster
+What is the name of MC's song in Doki Doki Takeover?|NEET|Protag|Flashback|Titular
+How could Natsuki theoretically become Buffsuki?|Anabolic steroids|Consume more calories|Lift those bars|Workout like crazy
+According to fans, what is Sayori's height?|5'2|5'3|5'5|4'11
+According to Dan Salvato, who would Yuri main in Smash?|Marth|Fox|Dr Mario|Pichu
+Which song is referenced in one of the random Act 2 title messages?|You Are My Sunshine|The Horror of Our Love|All of Me|Baby It's Cold Outside
+What are the odds for getting the ghost menu scare in Act 2?|1/64|1/17|1/87|1/25
+How do you get the fake BSOD scare in Act 2|Play the game in fullscreen|It's random chance|Ignore Yuri|Delete monika.chr
+How many total files does Monika leave in the game?|4|3|2|5
+Which topic has Monika saying that you look so cute that she wants to eat you up?|Spicy Foods|Sleep|Sayori's Final Moments|Being Vegetarian
+Which company created the world of the Literature Club?|Metaverse Enterprise Solutions|Team Salvato|Security Forge|Good Smile Company
+# Can you hear me?|Yes|No|What?|Help
+What is the weird square in the middle of the fire ring in Monika's character file?|A binary code|A QR code|A cypher|An encoded base64 message
+Which console is compatible with the controler seen in the official Monika & Yuri sleepover artwork?|PlayStation 3|Xbox One|Nintendo Switch|Sega Saturn
+In the official DDLC 2nd anniversary artwork, how many flowers are on Monika's head?|7|10|4|1
+In the official Summer Natsuki artwork where does Natsuki have bandages in the shape of an "X"?|Her Left Leg|Her Right Knee|Her Face|Her Right Wrist
+When does the fake Blue Screen Of Death happen when you play DDLC in fullscreen?|Monika's final Act 2 poem|When Monika's character file is deleted|After Sayori gets "hung over"|When Natsuki snaps
+
+# Mario Questions
+How many alternate costumes does Mario have in Mario Kart Tour?|21|15|7|39
+Which level in Super Mario Bros Wonder had a quiz as the Wonder Effect?|Taily's Toxic Pond|Condarts Away|Hot Hot Hot|Secrets of Shova Mansion
+Which action in Super Mario Odyssey does NOT count as a jump?|Jumping as a captured enemy|Wall Jumps|Pole Jumps|Long Jumps
+Which Mario creepypasta revolves around a dead Luigi?|Too Late|Mario PC Port|I Hate You|Mario's Madness
+How long is the gap between the original Super Mario RPG on SNES, and the Switch Remake?|27 years|31 years|20 years|35 years
+Which Mario Party game by Hutson Soft sold the most units?|Mario Party DS|Mario Party 8|Mario Party 1|Mario Party 4
+What is the official Japanese name of the scrapped character from Mario Tennis 64?|Waru-Peachy|Wa-Peach|Evil Princess|Dark Peach
+
+# Misc Games Questions
+Which Pokemon is considered to be the most compatable with humans?|Vaporeon|Rosarade|Gardevoir|Quagsire
+Which rune in Zelda Breath of the Wild is the most used in speedruns?|Stasis|Magnis|Remote Bomb|Cryonis
+Which non-legendary Pokemon was so overpowered that it was banned from tournaments?|Garchomp|Pikachu|Spiritomb|Milotic
+How do you kill Berdly in Deltarune?|Force Noelle to freeze everyone|Knock him off the roller coaster|Ignore Berdly in the Queen fight|Push him into the Acid lake
+Which of these Kirby Copy Abilities feature a broken teleport move?|ESP|Tornado|Water|Spark
+Which character in WarioWare Get It Together is the most overpowered?|5-Volt|Penny|Ashley|Orbulon
+How many enemies do you have to kill in Hotlands during Undertale's Genocide Route?|40|30|20|50
+The Five Nights At Freddy's Movie recieved a 30 percent critic score, but what was the audience score?|87|95|83|69
+
+#YouTube & Media Questions
+Which YouTuber is most famous for stealing other people's content?|SSSniperwolf|Forever Nenaa|RobertIDK|The Fine Brothers
+What is MatPat's role in the FNAF Movie?|Resturant Waiter|William Afton|Phone Guy|Taxi Driver
+What did the supposed original version of the Millionth Visitor popup do when clicked on?|Redirected to a lottery website|Download malware|Ask survey questions|Gave you the prize
+Which of these computer viruses is the most dangerous?|ILoveYou|You Are An Idiot|Newton|BonziBuddy
+What is the typical cost of a Nintendo Switch OLED Model?|$399|$299|$499|$199
+Which Party Crasher is the most toxic?|TCNick3|King Of Skill|Vernias|Sophist
+
+# General Trivia Questions
+What year was the Declaration of Independance signed?|1776|1782|1771|1787
+Which Major League Baseball team won the 2014 World Series?|San Fransisco Giants|Kansas City Royals|Atlanta Braves|Houston Astros
+Which British ruler was responsible for starting The Revolutionary War?|King George III|King Henry VIII|Queen Elizabeth I|King James I
+What is the value of the Shannon Number? (Maximum possible moves in chess)|10^120|10^80|10^44|10^105
+Which planet in our solar system has the lowest density?|Saturn|Venus|Mercury|Neptune
+What is the name of the forest in the state of Utah that only has a single tree?|Pando|Ethereal|Ichor|Abstract
+By how much can the human brain shrink by spending 1 year in Antarctica?|7 percent|3 percent|8 percent|The brain doesn't shrink
+What is the average weight of a cloud in tonnes?|500 tonnes|0.01 tonnes|10 tonnes|100 tonnes

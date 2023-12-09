@@ -1,0 +1,70 @@
+# Line format: question|correctAnswer|wrongAnswer1|wrongAnswer2|wrongAnswer3
+# DO NOT MARK THE ANSWERS WITH A, B, C, OR D! The submod will automatically do that at random
+# I've done my best to group certain questions into their own categories
+
+# DDLC Questions
+In Act 2 of DDLC, what has a chance of happening when Natsuki dislikes your poem?|Her eyes pop out|Her neck snaps|She yells at you|She says a bunch of random words
+What is the name of the book that Yuri was reading?|Portrait of Markov|Bygone Happiness|The Nightmare Before Christmas|Third Eye Basics
+What is the name of Sayori's poem that she would recite at the Festival?|My Meadow|Desolate Fields|The Last Flower|Garden Wasteland
+Which of Monika's Act 3 Topics ended up getting removed in a patch?|Smash Bros|Yoshi's Story|Counterstrike|Tetris
+What does the MC of DDLC give to Yuri during the second Yuri CG?|A piece of chocolate|A candy cane|A sourball|A can of soda
+What's the missing lyric? "Is it love if I take you, or is it love if I ___"|Set you free|Am all of me|Climb a tree|Run and flee
+What was the name of Natsuki's first poem?|Eagles Can Fly|Amy Likes Spiders|I'll Be Your Beach|Wheel
+What is the name of Monika's final poem?|Happy End|Hole In The Wall|Save Me|The Lady Who Knows Everything
+What does Monika say is a neat form of literature?|Rap|Sheet Music|RPGs|Manga
+Who refuses to believe that Manga is Literature?|Yuri|Monika|Sayori|MC
+How do you get the only Monika jumpscare?|Record the game|Give her a bad poem|Delete her character file|Unlock a special poem
+Which instrument is NOT heard in Natsuki's version of Okay Everyone?|Xylophone|prcMarimba|Oboe|Recorder
+Which character file plays a high piched noise when converted into a .ogg file?|sayori.chr|monika.chr|yuri.chr|natsuki.chr
+What is the handle of Monika's Twitter/X account? (Screw you Elon Musk)|lilmonix3|moninotfound|sweetmonika|dokimonika7
+Which special poem contains Monika giggling?|Can you hear me|Stare at the dot|A Joke|Glitched Monika
+How many in-game outfits does Monika have?|1|2|3|4
+What is Sayori's official Halloween costume?|A cow costume|An angel costume|A cinnamon roll costume|A banana costume
+What is the font Monika uses for her poems?|Journal|Hashtag|Ammys Handwriting|Helvetica
+Which of these words is favored by Yuri?|Vitality|Valentine|Shame|Raincloud
+What's the minimum age for playing Doki Doki Literature Club?|13|17|9|21
+What is the age rating for DDLC Plus?|Mature|Teen|E10+|Adults Only
+How do you get the only scare in Act 1?|Delete Sayori or Monika|Delete Yuri or Natsuki|Create a text file called scareme.txt|It's a random chance
+What's the poem game point threshold for accessing a route in the game?|45|32|21|60
+Which route takes priority first in the event of a tie in the poem game?|Yuri|Natsuki|Sayori|None
+What happens when you gently open the door?|Tragedy|A birthday party|The game crashes|You win a new car
+Which of these languages is the only one that DOESN'T have a greeting topic in MAS?|Spanish|French|Italian|Esperanto
+What happens when you try to load an invalid save file during Act 2?|Monika says you're funny|The game crashes|System32 gets deleted|A new game will start
+What has a random chance of appearing in the clubroom background during Act 2?|A picture of Sayori|My sleep paralysis demon|A glitchy Monika|A group photo with Sayori crossed off
+How many special poems are there?|11|18|7|3
+What happens when you select a glitched word in the poem game?|The poem game goes haywire|The game crashes|Your PC restarts|Monika breaks through the screen
+If everyone in the Literarture Club has 12 cupcakes, how many cupcakes are there in all?|60|48|72|24
+Sayori and MC are 200 meters apart, they both start walking at the same time. If they are both walking at 46 meters per minute how long would it take for both of them to meet?|4 and a half minutes|3 minutes|5 minutes|2 and a half minutes
+What are the words on the official "Scary Yuri" poster?|My heart pounds|Madly in love|All day, every day|Accept my confession
+Which Doki has a raccoon as part of their YouTooz figure?|Yuri|Monika|Sayori|Natsuki
+Which Doki Nendoroid was the second to be released?|Natsuki|Sayori|Monika|Yuri
+What were Natsuki's cupcakes styled like?|Cats|Dogs|Birds|Anime Girls
+
+# Mario Questions
+The Super Mario Bros Movie recieved a 59 percent critic score, but what was the audience score?|95|82|69|77
+Which Mario & Luigi game was not released or got a remake on the 3DS?|Partners In Time|Superstar Saga|Bowser's Inside Story|Dream Team
+Which level of Paper Mario Sticker Star is considered to be the best one?|Stump Glade|Ice Flow|Rumble Volcano|Bowser's Sky Castle
+Which Mario game was the last one to redesign the Koopalings?|New Super Mario Bros Wii|Mario & Luigi Superstar Saga|Super Mario World|Yoshi Safari
+When are music levels introduced in Super Mario Bros Wonder?|The second level of World 1|A Special World level|The sixth level of World 2|The fourth level of World 4
+
+# Misc Games Questions
+What is the name of the 5th map in Among Us?|The Fungle|The Airship|The Mansion|Polus
+Which level in Pizza Tower takes inspiration from Five Nights At Freddy's?|Don't Make A Sound|Pizzascare|War|The Graveyard
+In the original FNAF game, how does Freddy get in your office?|He moves when the camera isn't on him|There's a hole behind the poster|He knows all, sees all, and is all|When blackout happens
+How many Friday Night Funkin' Mods are there?|Too many to count|Infinity|9,000|Enough to flood a truck
+How many different Splatoon idols have there been throughout the series?|7|6|2|12
+Which Pokemon is number 250 of the Pokedex?|Ho-Oh|Lugia|Mewtwo|Celebi
+
+# YouTube and Media Questions
+Which of the colorful characters has been trapped in the Digital Circus the longest?|Kinger|Jax|Ragatha|Zooble
+Which old version of Windows was universally hated before Windows 11?|Windows 8|Windows 2000|Windows 95|Windows Vista
+How many subscribers does it take to get the Diamond Play Button?|10 Million|1 Million|5 Million|100 Thousand
+How many victims compete in Squid Game?|456|100|269|420
+In Murder Drones, how many doors are all the worker drones hiding behind?|3|2|4|7
+
+# General Trivia Questions
+Which brand of soda was originally called "Brad's Drink"?|Pepsi|7-Up|Sprite|Mountain Dew
+How many arcade tickets does it take on average to get a game console?|10,000|8,000|15,000|3,000
+Which type of snake has the same name as a well-known programming language?|Python|Rattlesnake|Sea Snake|King Snake
+Which Greek god is considered the god of dreams but not the god of sleep?|Morpheus|Hypnos|Apollo|Ares
+Would a kilogram of steel or a kilogram of feathers be heavy?|Both|Steel|Feathers|Neither
