@@ -18,4 +18,4 @@ Currently 1 game has been finished, but there will be more to come in the future
 * Download the latest version
 * Drag and drop the main folder into your MAS 'Submods' folder
 * If there's no folder called "Submods" in your game directory, you can create a new folder called "Submods" and it'll work
-* You must have at least 100 affection to unlock the first game.
+* You must have at least 100 affection and have played at least 20 of the other games to unlock the first game.
