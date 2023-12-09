@@ -15,7 +15,7 @@ Currently 1 game has been finished, but there will be more to come in the future
 * And more to come!
 
 ### Installation:
-* Go to the 'Releases' page
+* PLEASE Go to the 'Releases' page (DO NOT DOWNLOAD DIRECTLY FROM THE SOURCE CODE!!)
 * Download the latest version
 * Drag and drop the main `ExtraGamesSubmod` folder into your MAS `Submods` folder
 * If there's no folder called `Submods` in your game directory, you can create a new folder called `Submods` and it'll work
